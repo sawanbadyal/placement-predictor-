@@ -5,7 +5,7 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 ---
 
 ## 👤 Student Profile
-* **Name:** Sawanpreet
+* **Name:** Sawanpreet Singh Badyal
 * **Registration Number:** 23BAI10793
 * **Course:** B.Tech Computer Science and Engineering
 * **Institution:** VIT Bhopal University
